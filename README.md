@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aris Wahyu Nugroho
+Halo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Nama saya Aris Wahyu Nugroho
 ==========================================================================================================================================
 
 Game Programmer
@@ -6,10 +6,10 @@ Game Programmer
 
 Sebagai programmer saya sudah belajar selama 3 tahun di web developer, namun saya mencoba hal yang lainnya dan akhirnya bertemu dengan yang benar - benar saya inginkan yaitu, game programmer
 
-* 🌍  I'm based in Indonesia, Surabaya
-* 🖥️  See my portfolio at [My Portofolio](http://porto-aris-wahyu)
-* ✉️  You can contact me at [ariswn07@gmail.com](mailto:ariswn07@gmail.com)
-* 🧠  I'm learning 3D Game Development
+* 🌍  Saya berada di Indonesia, Surabaya
+* 🖥️  Lihat portofolio ku [My Portofolio](http://porto-aris-wahyu)
+* ✉️  Kamu bisa menghubungiku dengan [ariswn07@gmail.com](mailto:ariswn07@gmail.com)
+* 🧠  Saat ini saya sedang belajar 3D Game Development
 
 ### Skills
 

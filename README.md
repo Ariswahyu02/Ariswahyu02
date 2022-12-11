@@ -7,7 +7,7 @@ Game Programmer
 Sebagai programmer saya sudah belajar selama 3 tahun di web developer, namun saya mencoba hal yang lainnya dan akhirnya bertemu dengan yang benar - benar saya inginkan yaitu, game programmer
 
 * 🌍  Saya berada di Indonesia, Surabaya
-* 🖥️  Lihat portofolio ku [My Portofolio](http://porto-aris-wahyu)
+* 🖥️  Lihat portofolio ku [My Portofolio](https://ariswahyu-portofolio.bss.design/)
 * ✉️  Kamu bisa menghubungiku dengan [ariswn07@gmail.com](mailto:ariswn07@gmail.com)
 * 🧠  Saat ini saya sedang belajar 3D Game Development
 

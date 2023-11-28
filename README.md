@@ -8,7 +8,7 @@ Sebagai programmer saya sudah belajar selama 3 tahun di web developer, lalu saya
 
 * 🌍  Saya berada di Indonesia, Surabaya
 * 🖥️  [Portofolio](https://third-gymnast-656.notion.site/Portfolio-9555cb9e09294cd899e33cc7eaeb233b?pvs=4)
-* 🏢  [ CV](https://www.canva.com/design/DAF0Bpuprb0/fArrjjJefXwEAZDa8KteOw/edit?utm_content=DAF0Bpuprb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+* 🏢  [ CV](https://www.canva.com/design/DAF0Bpuprb0/fArrjjJefXwEAZDa8KteOw/edit?utm_content=DAF0Bpuprb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 * ✉️  Kamu bisa menghubungiku dengan [Email](mailto:arwanugros@gmail.com) atau [Whatsapp](https://api.whatsapp.com/send/?phone=%2B6281336293751&text&type=phone_number&app_absent=0)
 
 ### Skills

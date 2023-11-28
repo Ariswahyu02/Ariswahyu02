@@ -7,8 +7,9 @@ Game Programmer
 Sebagai programmer saya sudah belajar selama 3 tahun di web developer, lalu saya mencoba hal baru dan akhirnya bertemu dengan yang benar - benar saya inginkan yaitu, game programmer
 
 * 🌍  Saya berada di Indonesia, Surabaya
-* 🖥️  Lihat portofolio ku [My Portofolio](https://third-gymnast-656.notion.site/Portfolio-9555cb9e09294cd899e33cc7eaeb233b?pvs=4)
-* ✉️  Kamu bisa menghubungiku dengan [ariswn07@gmail.com](mailto:ariswn07@gmail.com)
+* 🖥️  [Portofolio](https://third-gymnast-656.notion.site/Portfolio-9555cb9e09294cd899e33cc7eaeb233b?pvs=4)
+* 🏠  [CV](https://www.canva.com/design/DAF0Bpuprb0/fArrjjJefXwEAZDa8KteOw/edit?utm_content=DAF0Bpuprb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+* ✉️  Kamu bisa menghubungiku dengan [Email](mailto:arwanugros@gmail.com) atau [Whatsapp](https://api.whatsapp.com/send/?phone=%2B6281336293751&text&type=phone_number&app_absent=0)
 
 ### Skills
 

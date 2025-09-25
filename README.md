@@ -1,27 +1,44 @@
-Halo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Nama saya Aris Wahyu Nugroho
-==========================================================================================================================================
+# 🎮 Aris Wahyu Nugroho — Game Programmer
 
-Game Programmer
----------------
+Hi! I'm **Aris Wahyu Nugroho**, a passionate game programmer with experience in Unity and C#.  
+This repository acts as a central hub to my portfolio and resume.
 
-Sebagai programmer saya sudah belajar selama 3 tahun di web developer, lalu saya mencoba hal baru dan akhirnya bertemu dengan yang benar - benar saya inginkan yaitu, game programmer
+---
 
-* 🌍  Saya berada di Indonesia, Surabaya
-* 🖥️  [Portofolio]([https://third-gymnast-656.notion.site/Portfolio-9555cb9e09294cd899e33cc7eaeb233b?pvs=4](https://aris-wahyu-n.bss.design/))
-* 🏢  [ CV]([https://www.canva.com/design/DAF0Bpuprb0/fArrjjJefXwEAZDa8KteOw/edit?utm_content=DAF0Bpuprb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGz931xYy0/scHB-nFD4szfhCCJtjlPKg/edit?utm_content=DAGz931xYy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)) 
-* ✉️  Kamu bisa menghubungiku dengan [Email](mailto:arwanugros@gmail.com) atau [Whatsapp](https://api.whatsapp.com/send/?phone=%2B6281336293751&text&type=phone_number&app_absent=0)
+## 🚀 About Me
+- 🎓 Final-year student at **Politeknik Elektronika Negeri Surabaya (PENS)**, Game Technology major  
+- 👨‍💻 Experienced in **Unity (2D & 3D)** and **C# scripting**  
+- 🕹️ Built 7+ games during my internship at **Shireishi Production**  
+- 🌱 Currently exploring **Flutter**, **Web Development**, and **E-Commerce Technology**  
 
-### Skills
+---
 
+## 📂 Portfolio
+👉 [Visit My Portfolio Website](https://aris-wahyu-n.bss.design/)  
+Showcasing my **highlighted projects**, **prototypes**, and **finished games**.  
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+---
 
+## 📄 Curriculum Vitae
+👉 [View My CV on Canva](https://www.canva.com/design/DAGz931xYy0/scHB-nFD4szfhCCJtjlPKg/edit?utm_content=DAGz931xYy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Ariswahyu02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/arisw_n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
+## 🛠️ Tech Stack
+- **Languages:** C#, JavaScript, SQL, Dart  
+- **Game Engine:** Unity (2D & 3D)  
+- **Tools:** Git, GitHub, Bootstrap Studio, WordPress, Blender
+- **Other:** Flutter, Node.js, Firebase, XAMPP  
+
+---
+
+## 📫 Contact
+- 📧 Email: [ariswn07@gmail.com](mailto:arwanugros@gmail.com)  
+- 🌐 Portfolio: [aris-wahyu-n.bss.design](https://aris-wahyu-n.bss.design/)  
+- 💼 LinkedIn: [Aris Wahyu Nugroho](https://linkedin.com/in/aris-wahyu-nugroho-800036319)  
+- 🐙 GitHub: [Ariswahyu02](https://github.com/Ariswahyu02)  
+
+---
+
+## ⚡ Fun Fact
+> *“I love exploring new technologies, from making fun prototypes to building scalable e-commerce platforms. For me, every project is both a challenge and a playground.”*  

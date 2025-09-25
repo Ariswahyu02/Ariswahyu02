@@ -8,8 +8,8 @@ This repository acts as a central hub to my portfolio and resume.
 ## 🚀 About Me
 - 🎓 Final-year student at **Politeknik Elektronika Negeri Surabaya (PENS)**, Game Technology major  
 - 👨‍💻 Experienced in **Unity (2D & 3D)** and **C# scripting**  
-- 🕹️ Built 7+ games during my internship at **Shireishi Production**  
-- 🌱 Currently exploring **Flutter**, **Web Development**, and **E-Commerce Technology**  
+- 🕹️ Built Many Games With Different Engine, Check My Portofolio For More Information**  
+- 🌱 Currently exploring **Roblox Studio**  
 
 ---
 
